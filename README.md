@@ -10,3 +10,5 @@
 ⌨️Возможно напишу для вас код, цена будет невероятно мала, но всё зависит от сложности⌨️ 
 
 # Я БУНТАРКА!!! #
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samgozman&layout=compact&theme=transparent&hide_border=true&langs_count=10)
