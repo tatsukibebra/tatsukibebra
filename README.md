@@ -11,4 +11,4 @@
 
 # Я БУНТАРКА!!! #
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samgozman&layout=compact&theme=transparent&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tatsukibebra&layout=compact&theme=transparent&hide_border=true&langs_count=10)
