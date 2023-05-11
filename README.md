@@ -13,4 +13,4 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tatsukibebra&layout=compact&theme=transparent&hide_border=true&langs_count=10)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsukibebra&show_icons=true&theme=synthwave)
